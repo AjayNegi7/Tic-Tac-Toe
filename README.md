@@ -2,6 +2,8 @@
 
 A simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. Players take turns marking the spaces in a 3×3 grid, and the first player to get three of their marks in a row (vertically, horizontally, or diagonally) wins the game.
 
+![image](https://github.com/user-attachments/assets/f0b6441a-2023-44ba-b764-af4237585d17)
+
 ## Features
 
 - Two players can play against each other.
